@@ -57,7 +57,7 @@ desde [aquí](http://www.owasp.org/index.php/Argentina)
 Patagonia.
 
 O considere [ser miembro individual, corporativo o
-academico](Membership "wikilink"). Listo para convertite en miembro?
+academico](Membership ). Listo para convertite en miembro?
 [Click aquí](https://myowasp.force.com/memberappregion)
 
 # Agradecimientos
@@ -98,20 +98,20 @@ aplicaciones sin sesgos. OWASP no está afiliada a ninguna compañia de
 tecnología, aunque soportamos el uso informado de tecnologías de
 seguridad comerciales. Parecido a muchos proyectos de software de código
 abierto, OWASP produce muchos materiales en una manera abierta y
-colaborativa. La [Fundación OWASP](OWASP_Foundation "wikilink") es una
+colaborativa. La [Fundación OWASP](OWASP_Foundation ) es una
 entidad sin ánimo de lucro para asegurar el éxito a largo plazo del
 proyecto. Para mas información, por favor vea las páginas siguientes:
 
-  - [Contactenos](Contact "wikilink") para información de como
+  - [Contactenos](Contact ) para información de como
     comunicarse con OWASP
-  - [Contribuciones](Contributions "wikilink") para detalles de como
+  - [Contribuciones](Contributions ) para detalles de como
     hacer contribuciones
-  - [Publicidad](Advertising "wikilink") Si esta interesado en
+  - [Publicidad](Advertising ) Si esta interesado en
     publicitarse en el sitio de OWASP
-  - [Como funciona OWASP](How_OWASP_Works "wikilink") para mayor
+  - [Como funciona OWASP](How_OWASP_Works ) para mayor
     información sobre proyectos y gobierno
   - [Reglas de uso para la marca
-    OWASP](OWASP_brand_usage_rules "wikilink")
+    OWASP](OWASP_brand_usage_rules )
 
 ## Proyectos
 
@@ -121,7 +121,7 @@ enseñanza, lineamientos, listas y otros materiales para ayudar a las
 organizaciones a mejorar su capacidad de producir código seguro.
 
 Para detalles sobre todos los proyectos de OWASP, por favor vea la
-página de **[proyectos de OWASP](:Category:OWASP_Project "wikilink")**
+página de **[proyectos de OWASP](:Category:OWASP_Project )**
 
 # Eventos
 
@@ -142,7 +142,7 @@ página de **[proyectos de OWASP](:Category:OWASP_Project "wikilink")**
 <td style="text-align: center;"><p>Abril 2019</p></td>
 <td style="text-align: center;"><p><strong>OWASP Latam Tour</strong></p>
 <p><strong>Lugar:</strong> Aula Magna. Universidad de Comahue</p>
-<p><a href="LatamTour2019" title="wikilink">LatamTour2019</a></p></td>
+<p><a href="LatamTour2019" title=>LatamTour2019</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>Febrero 2019</p></td>
@@ -152,7 +152,7 @@ página de **[proyectos de OWASP](:Category:OWASP_Project "wikilink")**
 <td style="text-align: center;"><p>Abril 2018</p></td>
 <td style="text-align: center;"><p><strong>OWASP Latam Tour</strong></p>
 <p><strong>Lugar:</strong> Aula Magna. Universidad de Comahue</p>
-<p><a href="LatamTour2018" title="wikilink">LatamTour2018</a></p></td>
+<p><a href="LatamTour2018" title=>LatamTour2018</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>Noviembre 2017</p></td>
@@ -168,13 +168,13 @@ página de **[proyectos de OWASP](:Category:OWASP_Project "wikilink")**
 <td style="text-align: center;"><p>Abril 2017</p></td>
 <td style="text-align: center;"><p><strong>OWASP Latam Tour</strong></p>
 <p><strong>Lugar:</strong> Aula Magna. Universidad de Comahue</p>
-<p><a href="LatamTour2017" title="wikilink">LatamTour2017</a></p></td>
+<p><a href="LatamTour2017" title=>LatamTour2017</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>Abril 2016</p></td>
 <td style="text-align: center;"><p><strong>OWASP Latam Tour</strong></p>
 <p><strong>Lugar:</strong> Facultad de Informatica. Universidad de Comahue</p>
-<p><a href="LatamTour2016" title="wikilink">LatamTour2016</a></p></td>
+<p><a href="LatamTour2016" title=>LatamTour2016</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>Diciembre 2015</p></td>
@@ -372,7 +372,7 @@ Universidad Nacional del Comahue, Buenos Aires 1400, Neuquén
 Los interesados en participar con un stand en el evento y su logo en la
 página del Tour (entre otras posibilidades), pueden revisar las
 [**Oportunidades de
-patrocinio**](https://www.owasp.org/images/8/8c/LatamTour2016OportunidadesdePatrocinio.pdf)
+patrocinio**](/www-pdf-archive/LatamTour2016OportunidadesdePatrocinio.pdf)
 
 Cualquier consulta no duden en escribir a [Gaston
 Toth](mailto:gaston.toth@owasp.org) o a [Diego Di
@@ -436,7 +436,7 @@ Gracias Dreamlab Technologies por apoyar la realización del Latam Tour
 Los interesados en participar con un stand en el evento y su logo en la
 página del Tour (entre otras posibilidades), pueden revisar las
 [**Oportunidades de
-patrocinio**](https://www.owasp.org/images/9/93/LatamTour2017OportunidadesdePatrocinio.pdf)
+patrocinio**](/www-pdf-archive/LatamTour2017OportunidadesdePatrocinio.pdf)
 
 Cualquier consulta no duden en escribir a [Gaston
 Toth](mailto:gaston.toth@owasp.org) o a [Diego Di
@@ -536,15 +536,15 @@ acreditación, a las 10:00hs inician las charlas.
 | :-----------: | :--------------------------------------------------------------: | :-------------: | :-------------------------------------------------------------------------------------: |
 | 09:00 - 10:00 |                           Acreditación                           |                 |                                                                                         |
 | 10:00 - 10:15 |                           Presentación                           |   Gaston Toth   |                                                                                         |
-| 10:15 - 10:55 |   The Art of Persistence: "Mr. Windows... I don't wanna go :("   |  Sheila Berta   |           [Descargar](media:Sheila-Berta-Malware-Persistance.pdf "wikilink")            |
+| 10:15 - 10:55 |   The Art of Persistence: "Mr. Windows... I don't wanna go :("   |  Sheila Berta   |           [Descargar](/www-pdf-archive/Sheila-Berta-Malware-Persistance.pdf )            |
 | 10:55 - 11:25 |                         Pausa para café                          |                 |                                                                                         |
-| 11:25 - 12:05 |           Quien no espía el mundo, es porque no quiere           |  Alvaro Chirou  |                  [Descargar](media:Alvaro-Chirou-OSINT.pdf "wikilink")                  |
-| 12:05 - 12:45 |               Rompiendo Autenticaciones Federadas                | Nahuel Grisolia |  [Descargar](media:Nahuel-Grisolia-Rompiendo-autenticaciones-federadas.pdf "wikilink")  |
+| 11:25 - 12:05 |           Quien no espía el mundo, es porque no quiere           |  Alvaro Chirou  |                  [Descargar](/www-pdf-archive/Alvaro-Chirou-OSINT.pdf )                  |
+| 12:05 - 12:45 |               Rompiendo Autenticaciones Federadas                | Nahuel Grisolia |  [Descargar](/www-pdf-archive/Nahuel-Grisolia-Rompiendo-autenticaciones-federadas.pdf )  |
 | 12:45 - 14:15 |                       Pausa para almuerzo                        |                 |                                                                                         |
-| 14:15 - 14:25 |                        Charla sobre CSIRT                        | Victor Figueroa |                 [Descargar](media:Victor-Figueroa-CSIRT.pdf "wikilink")                 |
-| 14:25 - 14:35 |                Pentesting de aplicaciones móviles                | Gustavo Sorondo | [Descargar](media:TourPatagonia2015_Mobile_Apps_and_How_to_Pentest_Them.pdf "wikilink") |
+| 14:15 - 14:25 |                        Charla sobre CSIRT                        | Victor Figueroa |                 [Descargar](/www-pdf-archive/Victor-Figueroa-CSIRT.pdf )                 |
+| 14:25 - 14:35 |                Pentesting de aplicaciones móviles                | Gustavo Sorondo | [Descargar](/www-pdf-archive/TourPatagonia2015_Mobile_Apps_and_How_to_Pentest_Them.pdf ) |
 | 14:35 - 15:05 |                         Pausa para café                          |                 |                                                                                         |
-| 15:05 - 15:45 | Accediendo a Secretos Corporativos a través de Videoconferencias | Yamila Levalle  |               [Descargar](media:Yamila-Levalle-M33tfinder.pdf "wikilink")               |
+| 15:05 - 15:45 | Accediendo a Secretos Corporativos a través de Videoconferencias | Yamila Levalle  |               [Descargar](/www-pdf-archive/Yamila-Levalle-M33tfinder.pdf )               |
 | 15:45 - 16:25 |                    Let the RAT be your fr1end                    |  Daniel Isler   |                                                                                         |
 
 ## Agradecimientos
@@ -585,7 +585,7 @@ color:\#FFF;" align="center" width="150" | Social |- | 09:30 - 10:00 |
 style="text-align: center;" | Acreditación | style="text-align: center;"
 | | | |- | 10:00 - 10:10 | style="text-align: center;" | Presentación |
 style="text-align: center;" |
-[Descargar](media:OWASP_Patagonia_Presentacion.pdf "wikilink") |
+[Descargar](/www-pdf-archive/OWASP_Patagonia_Presentacion.pdf ) |
 style="text-align: center;" | Gastón Toth |
 <https://www.linkedin.com/in/gastontoth/> |- | 10:10 - 10:50 |
 style="text-align: center;" | La importancia de la Alerta Temprana - La
@@ -604,18 +604,18 @@ Pedro Janices | <https://www.linkedin.com/in/pedrojanices/> |- | 12:40 -
 style="text-align: center;" | | | |- | 14:30 - 15:10 |
 style="text-align: center;" | Seguridad en aplicaciones web |
 style="text-align: center;" |
-[Descargar](media:OWASP_Patagonia_Gaston_Toth.pdf "wikilink") |
+[Descargar](/www-pdf-archive/OWASP_Patagonia_Gaston_Toth.pdf ) |
 style="text-align: center;" | Gaston Toth |
 <https://www.linkedin.com/in/gastontoth/> |- | 15:10 - 15:50 |
 style="text-align: center;" | Hacking NFC/RFID | style="text-align:
 center;" |
-[Descargar](media:OWASP_Patagonia_Nahuel_Grisolia.pdf "wikilink") |
+[Descargar](/www-pdf-archive/OWASP_Patagonia_Nahuel_Grisolia.pdf ) |
 style="text-align: center;" | Nahuel Grisolia |
 <https://www.linkedin.com/in/nahuelgrisolia/> |- | 15:50 - 16:20 |
 style="text-align: center;" | Pausa para cafe | style="text-align:
 center;" | | | |- | 16:20 - 17:00 | style="text-align: center;" |
 Testing Android Apps | style="text-align: center;" |
-[Descargar](media:TourPatagonia2015_Mobile_Apps_and_How_to_Pentest_Them.pdf "wikilink")
+[Descargar](/www-pdf-archive/TourPatagonia2015_Mobile_Apps_and_How_to_Pentest_Them.pdf )
 | style="text-align: center;" | Gustavo Sorondo |
 <https://www.linkedin.com/in/gustavosorondo/> |- | 17:00 - 17:10 |
 style="text-align: center;" | Cierre | style="text-align: center;" | | |
@@ -636,4 +636,4 @@ CURZA, Monseñor Esandi y Ayacucho, Viedma, Rio Negro, Argentina
 
 __NOTOC__ <headertabs></headertabs>
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
