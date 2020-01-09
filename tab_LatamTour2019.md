@@ -2,8 +2,8 @@
 title: Latam Tour 2019
 layout:  null
 tab: true
-order: 1
-tags: LatamTour2019-tag
+order: 2
+tags: latamTour2019-tag
 ---
 
 ## Latam Tour 2019
