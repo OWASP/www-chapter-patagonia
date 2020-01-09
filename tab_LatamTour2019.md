@@ -1,5 +1,5 @@
 ---
-title: Latam Tour 2019
+title: LatamTour2019
 layout:  null
 tab: true
 order: 1
