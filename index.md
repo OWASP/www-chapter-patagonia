@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Patagonia
-tags: patagonia
+tags: tab_patagonia
 level: 0
 
 region: Latin America
