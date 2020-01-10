@@ -22,7 +22,8 @@ El registro a las charlas es libre y gratuito.
 
 ### Agenda
 
-Viernes 26 de abril, Neuquén. De 9:00hs a 17:00hs .
+Viernes 26 de abril, Neuquén. De 9:00hs a 17:00hs.
+
 *A partir de las 9:00hs estaremos en el salón para realizar la acreditación, a las 10:00hs inician las charlas.*
 
 
