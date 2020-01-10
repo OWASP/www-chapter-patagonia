@@ -1,5 +1,4 @@
 ### Social
-[@OWASP_Patagonia](https://twitter.com/OWASP_Patagonia) 
 
-### Latam Tour
+* [@OWASP_Patagonia](https://twitter.com/OWASP_Patagonia) 
 
