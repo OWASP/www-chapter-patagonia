@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Patagonia
-tags: latamTour2019-tag
+tags: latamTour2019
 level: 0
 region: Latin America
 
