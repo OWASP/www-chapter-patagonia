@@ -20,7 +20,7 @@ El registro a las charlas es libre y gratuito.
 [![Registrarse](assets/images/LatamTour/Registrarse.png)](https://owasp-patagonia-latamtour17.eventbrite.com/)
 
 
-### Agenda
+### Agenda 
 
 Viernes 21 de abril, Neuquén. De 9:00hs a 17:00hs.
 
@@ -41,6 +41,8 @@ Viernes 21 de abril, Neuquén. De 9:00hs a 17:00hs.
   - 15:50 - 16:10 . **Natalia Toranzo**: Internet de las cosas, Botnet y Seguridad
   - 16:10 - 16:25 . Pausa para café 
   - 16:25 - 16:55 . **Camilo Fernandez**: Es posible hackear un país? 
+
+[![Descargar](assets/images/LatamTour/Descargar.png)](assets/images/LatamTour/2017/agenda2017.png)
 
 ### ¿Dónde?
 

@@ -40,6 +40,7 @@ Viernes 20 de abril, Neuquén. De 9:00hs a 17:00hs.
   - 16:05 - 16:45 . **Jaime Andrés Restrepo (@Dragonjar)**: Malware bancario. Historia de un robo real 
   - 16:45 - 16:55 . Sorteo y finalización de evento
 
+[![Descargar](assets/images/LatamTour/Descargar.png)](assets/images/LatamTour/2018/agenda2018.png)
 
 ### ¿Dónde?
 

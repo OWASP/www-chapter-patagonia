@@ -40,6 +40,7 @@ Viernes 26 de abril, Neuquén. De 9:00hs a 17:00hs.
   - 15:35 - 16:15 . **Yamila Levalle**: Accediendo a Secretos Corporativos a través de Videoconferencias - [Descargar slides](assets/slides/LatamTour/2019/Levalle-M33tfinder.pdf) 
   - 16:15 - 17:00 . **Daniel Isler**: Let the RAT be your fr1end 
 
+[![Descargar](assets/images/LatamTour/Descargar.png)](assets/images/LatamTour/2019/agenda2019.png)
 
 ### ¿Dónde?
 
