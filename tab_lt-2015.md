@@ -41,6 +41,13 @@ Viernes 10 de abril, Neuquén. De 9:00hs a 17:00hs.
   - 16:20 - 16:30 . Agradecimientos y cierre
 
 
+Sábado 11 de abril, Neuquén. De 8:00hs a 17:00hs.
+
+Instituto Icono, Santa Fe 355, Neuquén
+
+Training: Hacking de aplicaciones web basado en OWASP Top 10 (**Cristian Borghello**)
+
+
 ### ¿Dónde?
 
 Salón Azul, Universidad Nacional del Comahue, Buenos Aires 1400, Neuquén.
