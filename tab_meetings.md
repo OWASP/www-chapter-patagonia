@@ -8,13 +8,11 @@ tags: Patagonia
 ---
 
 ## Próximos encuentros locales
-
-29/02/2020 - Encuentro de ciberseguridad - Club de Emprendedores (Chaneton 215) 
-[![Registrarse](assets/images/LatamTour/Registrarse.png)](https://www.meetup.com/es/gdgneuquen/events/268772520/)
-
+  - 24/04/2020 - OWASP Latam Tour 2020 - Universidad del Comahue
 
 
 ### Encuentros anteriores
+  - 29/02/2020 - Encuentro de ciberseguridad - Club de Emprendedores (Neuquén)
   - 10/07/2019 - Informal meeting - General Roca
   - 26/04/2019 - OWASP Latam Tour - Neuquén
   - 23/02/2019 - Security4devs - Neuquén
