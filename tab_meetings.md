@@ -11,6 +11,7 @@ tags: Patagonia
 
 
 ### Encuentros anteriores
+  - 26/10/2020 - Encuentro virtual
   - 24/04/2020 - OWASP Latam Tour 2020 - Suspendido (Covid-19)
   - 29/02/2020 - Encuentro de ciberseguridad - Club de Emprendedores (Neuquén)
   - 10/07/2019 - Informal meeting - General Roca
